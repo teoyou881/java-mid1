@@ -1,4 +1,4 @@
-package lang.enumeration.ex;
+package enumeration.ex;
 
 import java.util.Arrays;
 

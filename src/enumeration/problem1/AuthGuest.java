@@ -1,4 +1,4 @@
-package lang.enumeration.problem1;
+package enumeration.problem1;
 
 public enum AuthGuest {
   GUEST(1, "guest"), LOGIN(2, "login user"), ADMIN(3, "administer");

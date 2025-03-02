@@ -1,4 +1,4 @@
-package lang.enumeration.problem1;
+package enumeration.problem1;
 
 public class AuthGradeMain {
 

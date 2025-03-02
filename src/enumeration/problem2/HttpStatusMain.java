@@ -1,4 +1,4 @@
-package lang.enumeration.problem2;
+package enumeration.problem2;
 
 import java.util.Scanner;
 

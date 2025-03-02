@@ -1,4 +1,4 @@
-package lang.enumeration.problem2;
+package enumeration.problem2;
 
 public enum HttpStatus {
   OK(200, "OK"), BAD_REQUEST(400, "Bad Request"), NOT_FOUND(404,

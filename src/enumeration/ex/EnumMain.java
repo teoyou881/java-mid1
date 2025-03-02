@@ -1,8 +1,8 @@
-package lang.enumeration.ex;
+package enumeration.ex;
 
-import static lang.enumeration.ex.ClassGrade.BASIC;
-import static lang.enumeration.ex.ClassGrade.DIAMOND;
-import static lang.enumeration.ex.ClassGrade.GOLD;
+import static enumeration.ex.ClassGrade.BASIC;
+import static enumeration.ex.ClassGrade.DIAMOND;
+import static enumeration.ex.ClassGrade.GOLD;
 
 public class EnumMain {
 

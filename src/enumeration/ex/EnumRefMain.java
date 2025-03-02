@@ -1,4 +1,4 @@
-package lang.enumeration.ex;
+package enumeration.ex;
 
 public class EnumRefMain {
 
